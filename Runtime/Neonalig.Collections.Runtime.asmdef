@@ -1,0 +1,16 @@
+﻿{
+    "name": "Neonalig.Collections.Runtime",
+    "rootNamespace": "Neonalig.Collections",
+    "references": [
+        "Neonalig.Polyfills.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

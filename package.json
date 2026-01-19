@@ -1,0 +1,14 @@
+﻿{
+  "name": "com.neonalig.collections",
+  "version": "1.0.0",
+  "displayName": "Neonalig Collections",
+  "description": "Custom collection types including EnumDictionary and PriorityList.",
+  "unity": "2021.3",
+  "keywords": ["collections", "dictionary", "enum", "priority"],
+  "author": {
+    "name": "Neonalig"
+  },
+  "dependencies": {
+    "com.neonalig.polyfills": "1.0.0"
+  }
+}
